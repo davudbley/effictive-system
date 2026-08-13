@@ -96,6 +96,10 @@ nav + .readout{margin-left:0}
   nav a[href="#kontakt"]{display:block}
   .readout .clock{display:none}
 }
+@media (max-width:560px){
+  .readout .r-label{display:none}
+  .bar{gap:1rem}
+}
 
 /* ================= HERO ================= */
 .hero{padding-block:clamp(3rem,7vw,5.5rem) clamp(2.5rem,5vw,4rem);border-bottom:1px solid var(--seam)}
@@ -362,7 +366,7 @@ finish review, the verdict, and DESIGN.md
       <a href="#ablauf">Ablauf</a>
       <a href="#kontakt">Kontakt</a>
     </nav>
-    <span class="readout mono"><span class="lamp on blink" aria-hidden="true"></span> Anlage in Betrieb <span class="clock" id="clock" aria-hidden="true">--:--:--</span></span>
+    <span class="readout mono"><span class="lamp on blink" aria-hidden="true"></span> <span class="r-label">Anlage in Betrieb</span> <span class="clock" id="clock" aria-hidden="true">--:--:--</span></span>
   </div>
 </header>
 
