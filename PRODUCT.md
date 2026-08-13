@@ -12,11 +12,11 @@ delegated: statisches HTML/CSS in einer einzelnen Datei (`website/index.html`) �
 
 ## Users
 
-Inhaber und Entscheider kleiner Unternehmen im deutschsprachigen Raum, die wiederkehrende Büroaufgaben (Rechnungen, Kundenkommunikation, Datenpflege) manuell erledigen und Zeit verlieren. Sie sind keine Techniker; sie bewerten den Anbieter nach Verständlichkeit, Vertrauen und konkretem Nutzen.
+Inhaber und Entscheider kleiner und mittlerer Unternehmen (KMU) im deutschsprachigen Raum, die wiederkehrende Büroaufgaben (Rechnungen, Kundenkommunikation, Datenpflege) manuell erledigen und Zeit verlieren. Sie sind keine Techniker; sie bewerten den Anbieter nach Verständlichkeit, Vertrauen und konkretem Nutzen.
 
 ## Product Purpose
 
-Autopilot ist das Einzelunternehmen des Inhabers und baut individuelle Aufgaben-Automatisierungen als Dienstleistung: bestehende Abläufe des Kunden werden mit Werkzeugen wie n8n, Airtable und KI-Bausteinen automatisiert. Die Website soll Interessenten das Angebot erklären und zur Kontaktaufnahme führen.
+Autopilot ist das Einzelunternehmen des Inhabers und baut individuelle Aufgaben-Automatisierungen als Dienstleistung für kleine und mittlere Unternehmen: bestehende Abläufe des Kunden werden mit Werkzeugen wie n8n, Airtable und KI-Bausteinen automatisiert. Die Website soll Interessenten das Angebot erklären und zur Kontaktaufnahme führen.
 
 ## Positioning
 
