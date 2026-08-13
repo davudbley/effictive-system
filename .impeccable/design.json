@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-13T17:45:00Z",
+  "title": "Design System: Autopilot",
+  "extensions": {
+    "colorMeta": {
+      "green": { "role": "primary", "displayName": "Signal Green", "canonical": "oklch(80.3% 0.181 156)", "tonalRamp": ["oklch(15.0% 0.181 156)", "oklch(26.4% 0.181 156)", "oklch(37.9% 0.181 156)", "oklch(49.3% 0.181 156)", "oklch(60.7% 0.181 156)", "oklch(72.1% 0.181 156)", "oklch(83.6% 0.181 156)", "oklch(95.0% 0.181 156)"] },
+      "green-deep": { "role": "primary", "displayName": "Green Deep", "canonical": "oklch(25.6% 0.048 158)", "tonalRamp": ["oklch(15.0% 0.048 158)", "oklch(26.4% 0.048 158)", "oklch(37.9% 0.048 158)", "oklch(49.3% 0.048 158)", "oklch(60.7% 0.048 158)", "oklch(72.1% 0.048 158)", "oklch(83.6% 0.048 158)", "oklch(95.0% 0.048 158)"] },
+      "green-ink": { "role": "primary", "displayName": "Green Ink", "canonical": "oklch(17.2% 0.023 158)", "tonalRamp": ["oklch(15.0% 0.023 158)", "oklch(26.4% 0.023 158)", "oklch(37.9% 0.023 158)", "oklch(49.3% 0.023 158)", "oklch(60.7% 0.023 158)", "oklch(72.1% 0.023 158)", "oklch(83.6% 0.023 158)", "oklch(95.0% 0.023 158)"] },
+      "amber": { "role": "secondary", "displayName": "Amber (Handbetrieb)", "canonical": "oklch(80.3% 0.155 78)", "tonalRamp": ["oklch(15.0% 0.155 78)", "oklch(26.4% 0.155 78)", "oklch(37.9% 0.155 78)", "oklch(49.3% 0.155 78)", "oklch(60.7% 0.155 78)", "oklch(72.1% 0.155 78)", "oklch(83.6% 0.155 78)", "oklch(95.0% 0.155 78)"] },
+      "amber-deep": { "role": "secondary", "displayName": "Amber Deep", "canonical": "oklch(24.9% 0.041 86)", "tonalRamp": ["oklch(15.0% 0.041 86)", "oklch(26.4% 0.041 86)", "oklch(37.9% 0.041 86)", "oklch(49.3% 0.041 86)", "oklch(60.7% 0.041 86)", "oklch(72.1% 0.041 86)", "oklch(83.6% 0.041 86)", "oklch(95.0% 0.041 86)"] },
+      "ground": { "role": "neutral", "displayName": "Ground", "canonical": "oklch(16.6% 0.008 248)", "tonalRamp": ["oklch(15.0% 0.008 248)", "oklch(26.4% 0.008 248)", "oklch(37.9% 0.008 248)", "oklch(49.3% 0.008 248)", "oklch(60.7% 0.008 248)", "oklch(72.1% 0.008 248)", "oklch(83.6% 0.008 248)", "oklch(95.0% 0.008 248)"] },
+      "panel": { "role": "neutral", "displayName": "Panel", "canonical": "oklch(19.8% 0.010 248)", "tonalRamp": ["oklch(15.0% 0.010 248)", "oklch(26.4% 0.010 248)", "oklch(37.9% 0.010 248)", "oklch(49.3% 0.010 248)", "oklch(60.7% 0.010 248)", "oklch(72.1% 0.010 248)", "oklch(83.6% 0.010 248)", "oklch(95.0% 0.010 248)"] },
+      "panel-2": { "role": "neutral", "displayName": "Panel 2", "canonical": "oklch(21.9% 0.012 248)", "tonalRamp": ["oklch(15.0% 0.012 248)", "oklch(26.4% 0.012 248)", "oklch(37.9% 0.012 248)", "oklch(49.3% 0.012 248)", "oklch(60.7% 0.012 248)", "oklch(72.1% 0.012 248)", "oklch(83.6% 0.012 248)", "oklch(95.0% 0.012 248)"] },
+      "panel-3": { "role": "neutral", "displayName": "Panel 3", "canonical": "oklch(24.4% 0.014 248)", "tonalRamp": ["oklch(15.0% 0.014 248)", "oklch(26.4% 0.014 248)", "oklch(37.9% 0.014 248)", "oklch(49.3% 0.014 248)", "oklch(60.7% 0.014 248)", "oklch(72.1% 0.014 248)", "oklch(83.6% 0.014 248)", "oklch(95.0% 0.014 248)"] },
+      "seam": { "role": "neutral", "displayName": "Seam", "canonical": "oklch(28.8% 0.017 245)", "tonalRamp": ["oklch(15.0% 0.017 245)", "oklch(26.4% 0.017 245)", "oklch(37.9% 0.017 245)", "oklch(49.3% 0.017 245)", "oklch(60.7% 0.017 245)", "oklch(72.1% 0.017 245)", "oklch(83.6% 0.017 245)", "oklch(95.0% 0.017 245)"] },
+      "seam-soft": { "role": "neutral", "displayName": "Seam Soft", "canonical": "oklch(25.6% 0.015 244)", "tonalRamp": ["oklch(15.0% 0.015 244)", "oklch(26.4% 0.015 244)", "oklch(37.9% 0.015 244)", "oklch(49.3% 0.015 244)", "oklch(60.7% 0.015 244)", "oklch(72.1% 0.015 244)", "oklch(83.6% 0.015 244)", "oklch(95.0% 0.015 244)"] },
+      "line": { "role": "neutral", "displayName": "Line", "canonical": "oklch(39.5% 0.020 240)", "tonalRamp": ["oklch(15.0% 0.020 240)", "oklch(26.4% 0.020 240)", "oklch(37.9% 0.020 240)", "oklch(49.3% 0.020 240)", "oklch(60.7% 0.020 240)", "oklch(72.1% 0.020 240)", "oklch(83.6% 0.020 240)", "oklch(95.0% 0.020 240)"] },
+      "ink": { "role": "neutral", "displayName": "Ink", "canonical": "oklch(94.5% 0.005 197)", "tonalRamp": ["oklch(15.0% 0.005 197)", "oklch(26.4% 0.005 197)", "oklch(37.9% 0.005 197)", "oklch(49.3% 0.005 197)", "oklch(60.7% 0.005 197)", "oklch(72.1% 0.005 197)", "oklch(83.6% 0.005 197)", "oklch(95.0% 0.005 197)"] },
+      "ink-dim": { "role": "neutral", "displayName": "Ink Dim", "canonical": "oklch(75.5% 0.020 176)", "tonalRamp": ["oklch(15.0% 0.020 176)", "oklch(26.4% 0.020 176)", "oklch(37.9% 0.020 176)", "oklch(49.3% 0.020 176)", "oklch(60.7% 0.020 176)", "oklch(72.1% 0.020 176)", "oklch(83.6% 0.020 176)", "oklch(95.0% 0.020 176)"] },
+      "ink-faint": { "role": "neutral", "displayName": "Ink Faint", "canonical": "oklch(62.6% 0.026 165)", "tonalRamp": ["oklch(15.0% 0.026 165)", "oklch(26.4% 0.026 165)", "oklch(37.9% 0.026 165)", "oklch(49.3% 0.026 165)", "oklch(60.7% 0.026 165)", "oklch(72.1% 0.026 165)", "oklch(83.6% 0.026 165)", "oklch(95.0% 0.026 165)"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Hero H1 only: uppercase Saira Condensed 700, max-width 14ch, one green highlight word allowed." },
+      "headline": { "displayName": "Headline", "purpose": "Section H2s in the sec-head row, uppercase Saira Condensed 600, paired with a mono tag on the right." },
+      "title": { "displayName": "Title", "purpose": "H3 and component names (phases 1.5rem, module names 1.12rem, station names 1.02rem), uppercase Saira Condensed 600 with 0.04-0.05em tracking." },
+      "body": { "displayName": "Body", "purpose": "Saira prose at 1.04rem/1.65, max 62ch; secondary copy in ink-dim; emphasis via weight 500-600 in ink, never italics." },
+      "label": { "displayName": "Readout", "purpose": "Martian Mono operational labels: 0.62-0.72rem, uppercase, 0.05-0.09em tracking. Never for headlines or prose." }
+    },
+    "shadows": [
+      { "name": "lamp-glow-green", "value": "0 0 8px 1px rgba(56,224,139,.55)", "purpose": "Emission of an on-state status lamp and active process stations. A light source, never elevation." },
+      { "name": "lamp-glow-amber", "value": "0 0 8px 1px rgba(245,176,46,.5)", "purpose": "Emission of a warn/manual-state status lamp. The system has no elevation shadows at all." }
+    ],
+    "motion": [
+      { "name": "ease-lift", "value": "cubic-bezier(.22,1,.36,1)", "purpose": "Hover lifts on buttons and contact terminals (translateY -1px/-2px)." },
+      { "name": "duration-hover", "value": "0.18s", "purpose": "Default transition for color, border, background, and lift on interactive elements." },
+      { "name": "duration-state", "value": "0.2s-0.35s", "purpose": "State swaps: switch buttons 0.2s, chips 0.25s, process nodes 0.35s." },
+      { "name": "board-step", "value": "1100ms", "purpose": "--board-step: one pipe-fill step of the process-board pulse (linear); 3.4s hold between cycles; fully-on static under prefers-reduced-motion." },
+      { "name": "lamp-blink", "value": "1.6s ease-in-out infinite", "purpose": "Header status lamp pulses opacity 1 to 0.35 (keyframes lampblink)." },
+      { "name": "stagger-tasks", "value": "70ms", "purpose": "Per-row delay when the HAND/AUTO switch restates lamps and chips; 0ms under prefers-reduced-motion." }
+    ],
+    "breakpoints": [
+      { "name": "nav-collapse", "value": "840px" },
+      { "name": "grid-collapse-wide", "value": "900px" },
+      { "name": "grid-collapse", "value": "820px" },
+      { "name": "board-vertical", "value": "760px" },
+      { "name": "sec-tag-hide", "value": "600px" },
+      { "name": "compact", "value": "560px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one loud action: signal green on near-black green, 3px radius, stroke icon, 1px hover lift.",
+      "html": "<a class=\"ds-btn-primary\" href=\"#\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><rect x=\"1.5\" y=\"3\" width=\"13\" height=\"10\" rx=\"1.5\"/><path d=\"m2 4 6 5 6-5\"/></svg>Erstgespräch anfragen</a>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; gap: 0.6rem; font-family: 'Saira', system-ui, sans-serif; font-weight: 600; font-size: 1rem; text-decoration: none; padding: 0.85rem 1.5rem; border-radius: 3px; background: #38e08b; color: #07130c; transition: transform 0.18s cubic-bezier(.22,1,.36,1), background 0.18s; } .ds-btn-primary svg { flex: none; } .ds-btn-primary:hover { background: #4ceb9a; transform: translateY(-1px); } .ds-btn-primary:focus-visible { outline: 2px solid #38e08b; outline-offset: 3px; border-radius: 2px; }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Secondary action: transparent with a line-stroke border; hover brightens the border and lifts 1px.",
+      "html": "<a class=\"ds-btn-ghost\" href=\"#\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 16 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><path d=\"M3 2h3l1.5 3.5L5.8 7a10 10 0 0 0 3.2 3.2l1.5-1.7L14 10v3a1 1 0 0 1-1 1A11 11 0 0 1 2 3a1 1 0 0 1 1-1Z\"/></svg>+49 170 0000000</a>",
+      "css": ".ds-btn-ghost { display: inline-flex; align-items: center; gap: 0.6rem; font-family: 'Saira', system-ui, sans-serif; font-weight: 600; font-size: 1rem; text-decoration: none; padding: 0.85rem 1.5rem; border-radius: 3px; border: 1px solid #3d4850; color: #e9eeee; background: transparent; transition: transform 0.18s cubic-bezier(.22,1,.36,1), border-color 0.18s; } .ds-btn-ghost svg { flex: none; } .ds-btn-ghost:hover { border-color: #a3b4af; transform: translateY(-1px); } .ds-btn-ghost:focus-visible { outline: 2px solid #38e08b; outline-offset: 3px; border-radius: 2px; }"
+    },
+    {
+      "name": "Status Lamp",
+      "kind": "custom",
+      "refersTo": "lamp",
+      "description": "9px state dot: off (ink-faint), on (green + glow), warn (amber + glow); blink for the live header readout.",
+      "html": "<span style=\"display:inline-flex;gap:14px;align-items:center;background:#12161a;padding:12px 16px;border:1px solid #242c33;border-radius:6px\"><span class=\"ds-lamp\"></span><span class=\"ds-lamp ds-lamp-on\"></span><span class=\"ds-lamp ds-lamp-warn\"></span><span class=\"ds-lamp ds-lamp-on ds-lamp-blink\"></span></span>",
+      "css": ".ds-lamp { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: #7a8d84; flex: none; } .ds-lamp-on { background: #38e08b; box-shadow: 0 0 8px 1px rgba(56,224,139,.55); } .ds-lamp-warn { background: #f5b02e; box-shadow: 0 0 8px 1px rgba(245,176,46,.5); } @keyframes ds-lampblink { 0%,100% { opacity: 1; } 50% { opacity: .35; } } .ds-lamp-blink { animation: ds-lampblink 1.6s ease-in-out infinite; }"
+    },
+    {
+      "name": "Status Chips",
+      "kind": "chip",
+      "refersTo": "chip-auto",
+      "description": "Mono state chips: green well = automated, amber well = manual, panel well = stays with the owner.",
+      "html": "<span style=\"display:inline-flex;gap:10px;background:#12161a;padding:12px 16px;border:1px solid #242c33;border-radius:6px\"><span class=\"ds-chip ds-chip-auto\">läuft von selbst</span><span class=\"ds-chip ds-chip-hand\">du machst es selbst</span><span class=\"ds-chip ds-chip-keep\">bleibt bei dir</span></span>",
+      "css": ".ds-chip { font-family: 'Martian Mono', monospace; font-size: 0.62rem; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.34rem 0.6rem; border-radius: 3px; white-space: nowrap; transition: background 0.25s, color 0.25s; } .ds-chip-auto { background: #0a2a1a; color: #38e08b; } .ds-chip-hand { background: #2a2008; color: #f5b02e; } .ds-chip-keep { background: #1b2127; color: #a3b4af; }"
+    },
+    {
+      "name": "HAND/AUTO Switch",
+      "kind": "custom",
+      "refersTo": "switch",
+      "description": "The mode switch: panel-2 housing with two uppercase condensed buttons; the active side takes its signal color.",
+      "html": "<span class=\"ds-switch\"><button type=\"button\" class=\"ds-switch-btn\">Hand</button><button type=\"button\" class=\"ds-switch-btn ds-switch-btn-active\">Auto</button></span>",
+      "css": ".ds-switch { display: inline-flex; border: 1px solid #3d4850; border-radius: 6px; overflow: hidden; background: #161b20; padding: 4px; gap: 4px; } .ds-switch-btn { all: unset; cursor: pointer; font-family: 'Saira Condensed', system-ui, sans-serif; font-weight: 600; font-size: 1.05rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.55rem 1.6rem; border-radius: 3px; color: #7a8d84; transition: background 0.2s, color 0.2s; } .ds-switch-btn:focus-visible { outline: 2px solid #38e08b; outline-offset: -2px; } .ds-switch-btn-active { background: #38e08b; color: #07130c; } .ds-switch-btn:first-child:hover:not(.ds-switch-btn-active) { color: #f5b02e; }"
+    },
+    {
+      "name": "Panel with Readout Head",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "The universal container: panel surface, seam border, 6px radius, panel-2 head strip with mono readouts and a lamp.",
+      "html": "<div class=\"ds-panel\"><div class=\"ds-panel-head\"><span class=\"ds-panel-head-strong\">Wiederkehrende Aufgaben</span><span class=\"ds-panel-head-right\"><span class=\"ds-panel-lamp\"></span>Automatik</span></div><div class=\"ds-panel-row\">Rechnung schreiben und verschicken</div><div class=\"ds-panel-row\">Belege ablegen und weiterleiten</div></div>",
+      "css": ".ds-panel { background: #12161a; border: 1px solid #242c33; border-radius: 6px; overflow: hidden; min-width: 300px; } .ds-panel-head { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 0.7rem 1.1rem; background: #161b20; border-bottom: 1px solid #1d242a; color: #a3b4af; font-family: 'Martian Mono', monospace; font-size: 0.68rem; letter-spacing: 0.09em; text-transform: uppercase; } .ds-panel-head-strong { font-weight: 500; } .ds-panel-head-right { display: flex; align-items: center; gap: 0.55rem; } .ds-panel-lamp { width: 9px; height: 9px; border-radius: 50%; background: #38e08b; box-shadow: 0 0 8px 1px rgba(56,224,139,.55); } .ds-panel-row { padding: 0.95rem 1.1rem; border-bottom: 1px solid #1d242a; color: #e9eeee; font-family: 'Saira', system-ui, sans-serif; font-weight: 500; font-size: 0.98rem; } .ds-panel-row:last-child { border-bottom: none; }"
+    },
+    {
+      "name": "Record Datasheet",
+      "kind": "custom",
+      "refersTo": "record",
+      "description": "Anlagen-Datenblatt: all-mono key/value panel that presents a workflow as plant paperwork; status in ok-green.",
+      "html": "<div class=\"ds-record\"><div class=\"ds-record-head\"><span>Anlagen-Datenblatt</span><span>P-101</span></div><dl class=\"ds-record-dl\"><dt>Anlage</dt><dd>Ausgangsrechnung</dd><dt>Auslöser</dt><dd>Auftrag abgeschlossen</dd><dt>Status</dt><dd class=\"ds-record-ok\">In Betrieb</dd></dl></div>",
+      "css": ".ds-record { background: #12161a; border: 1px solid #242c33; border-radius: 6px; overflow: hidden; font-family: 'Martian Mono', monospace; font-size: 0.72rem; letter-spacing: 0.05em; min-width: 300px; } .ds-record-head { display: flex; justify-content: space-between; align-items: center; padding: 0.7rem 1.1rem; background: #161b20; border-bottom: 1px solid #1d242a; color: #a3b4af; text-transform: uppercase; } .ds-record-dl { display: grid; grid-template-columns: auto 1fr; margin: 0; } .ds-record-dl dt { padding: 0.62rem 1.1rem; color: #7a8d84; text-transform: uppercase; border-bottom: 1px solid #1d242a; white-space: nowrap; } .ds-record-dl dd { padding: 0.62rem 1.1rem 0.62rem 0; color: #a3b4af; border-bottom: 1px solid #1d242a; margin: 0; } .ds-record-dl dt:nth-last-of-type(1), .ds-record-dl dd:last-of-type { border-bottom: none; } .ds-record-ok { color: #38e08b !important; }"
+    },
+    {
+      "name": "Contact Terminal",
+      "kind": "custom",
+      "refersTo": "terminal",
+      "description": "Tile inside the green-drenched contact panel: green-ink ground, mono label, condensed value, 2px hover lift.",
+      "html": "<div style=\"background:#38e08b;padding:16px;border-radius:6px\"><a class=\"ds-term\" href=\"#\"><span class=\"ds-term-label\"><svg width=\"15\" height=\"15\" viewBox=\"0 0 16 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\" aria-hidden=\"true\"><rect x=\"1.5\" y=\"3\" width=\"13\" height=\"10\" rx=\"1.5\"/><path d=\"m2 4 6 5 6-5\"/></svg> E-Mail</span><span class=\"ds-term-value\">kontakt@autopilot-beispiel.de</span></a></div>",
+      "css": ".ds-term { display: flex; flex-direction: column; gap: 0.5rem; text-decoration: none; background: #07130c; border-radius: 6px; padding: 1.3rem 1.4rem; transition: transform 0.18s cubic-bezier(.22,1,.36,1), background 0.18s; } .ds-term:hover { transform: translateY(-2px); background: #0c1d12; } .ds-term:focus-visible { outline: 2px solid #07130c; outline-offset: 3px; } .ds-term-label { display: flex; align-items: center; gap: 0.55rem; color: #8ff0bd; font-family: 'Martian Mono', monospace; font-size: 0.68rem; letter-spacing: 0.09em; text-transform: uppercase; } .ds-term-value { font-family: 'Saira Condensed', system-ui, sans-serif; font-weight: 600; font-size: 1.3rem; letter-spacing: 0.03em; color: #eafff3; word-break: break-all; }"
+    },
+    {
+      "name": "Header Status Bar",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Sticky 60px instrument bar: brand, dim nav links, and a live readout with blinking lamp and clock.",
+      "html": "<div class=\"ds-topbar\"><span class=\"ds-topbar-brand\">Autopilot</span><nav class=\"ds-topbar-nav\"><a href=\"#\">Hand/Auto</a><a href=\"#\">Referenz</a><a href=\"#\">Kontakt</a></nav><span class=\"ds-topbar-readout\"><span class=\"ds-topbar-lamp\"></span>Anlage in Betrieb<span>14:32:07</span></span></div>",
+      "css": ".ds-topbar { display: flex; align-items: center; gap: 1.5rem; height: 60px; padding: 0 1.5rem; background: rgba(12,15,18,0.88); border-bottom: 1px solid #242c33; min-width: 480px; } .ds-topbar-brand { font-family: 'Saira Condensed', system-ui, sans-serif; font-weight: 700; font-size: 1.25rem; letter-spacing: 0.06em; text-transform: uppercase; color: #e9eeee; } .ds-topbar-nav { display: flex; gap: 1.6rem; margin-left: auto; } .ds-topbar-nav a { text-decoration: none; font-family: 'Saira', system-ui, sans-serif; font-size: 0.92rem; font-weight: 500; color: #a3b4af; transition: color 0.18s; } .ds-topbar-nav a:hover { color: #e9eeee; } .ds-topbar-readout { display: flex; align-items: center; gap: 0.55rem; color: #a3b4af; white-space: nowrap; font-family: 'Martian Mono', monospace; font-size: 0.68rem; letter-spacing: 0.09em; text-transform: uppercase; } .ds-topbar-lamp { width: 9px; height: 9px; border-radius: 50%; background: #38e08b; box-shadow: 0 0 8px 1px rgba(56,224,139,.55); animation: ds-topbar-blink 1.6s ease-in-out infinite; } @keyframes ds-topbar-blink { 0%,100% { opacity: 1; } 50% { opacity: .35; } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Der Leitstand (The Control Room)",
+    "overview": "The page is the control room of the visitor's own office: paperwork rendered as a running, supervised industrial process. Every surface borrows the grammar of a plant HMI — graphite panels joined by hairline seams, monospaced readouts in panel headers and footers, status lamps that glow green when a process runs and amber when it is on manual, a physical HAND/AUTO mode switch. Signal green is not decoration; it is the committed state of the machine (\"in Betrieb\") and the primary action. The world explicitly refuses the dark AI-agency aesthetic: no neon glow, no particle networks, no gradient haze.\n\nDensity is calm and engineered. One dark ground carries flat panels; structure is drawn with 1px borders, never cast with shadows. Type is industrial signage: condensed uppercase display caps for anything that names a thing, a workmanlike sans for prose, and a small caps-tracked mono strictly for operational readouts (tags like Mod-01, P-101, clock, panel labels). Motion is process motion — a pulse travelling through pipes, lamps switching on in sequence — always with a settled end state and full prefers-reduced-motion fallbacks.",
+    "keyCharacteristics": [
+      "Graphite panel ladder (ground → panel → panel-2 → panel-3) with 1px hairline seams; zero elevation shadows.",
+      "Two signal hues only: green = running/committed/primary action, amber = manual operation. No third accent.",
+      "Three-font industrial stack: Saira Condensed versal display, Saira body, Martian Mono readouts — all embedded, no external requests.",
+      "6px panel radius, 3px chip radius; stroke-based line icons at 1.5px.",
+      "One deliberate inversion: the contact section is fully drenched in signal green — the \"GO\" panel."
+    ],
+    "rules": [
+      { "name": "The Signal Discipline Rule", "body": "Green means \"läuft\" (running/committed) or the primary action; amber means \"Hand\" (manual). Neither hue is ever used as ornament, background wash, or a third-priority highlight — if an element is not a state or the CTA, it stays graphite and ink.", "section": "colors" },
+      { "name": "The One Drench Rule", "body": "Signal green floods exactly one surface on the page: the contact section (.contact), where the palette inverts (green ground, green-ink text, green-ink terminal tiles). Everywhere else green stays a signal on graphite. Do not add a second drenched section.", "section": "colors" },
+      { "name": "The Versal Display Rule", "body": "Every heading is Saira Condensed, uppercase, tight-leaded (1.02). There are no sentence-case, serif, or non-condensed headings anywhere in the world.", "section": "typography" },
+      { "name": "The Readout Rule", "body": "Martian Mono appears only as small operational readouts: 0.62–0.72rem, uppercase, wide-tracked, usually in ink-faint/ink-dim. It is never used for headlines, body prose, or at large sizes.", "section": "typography" },
+      { "name": "The Grid-in-the-Canvas Rule", "body": "The 28px schematic grid (background-size: 28px 28px, seam-soft lines) exists only inside the process-board canvas (.board-body). The page ground and all other panels stay plain — the grid marks the one drawing surface, not a global texture.", "section": "layout" },
+      { "name": "The Seam Rule", "body": "Structure is expressed exclusively through 1px borders and panel tone steps. If a surface needs separation, add a hairline or step the panel tone — never a box-shadow.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do build every container as a panel: panel surface, 1px solid seam border, 6px radius, and — when it has a title — a panel-2 head strip with mono readout labels (The Seam Rule).",
+      "Do reserve green strictly for running/committed states and the primary action, and amber strictly for manual operation (The Signal Discipline Rule).",
+      "Do set all headings in uppercase Saira Condensed (600–700, line-height 1.02) and all operational labels in Martian Mono 0.62–0.72rem uppercase with 0.08–0.09em tracking.",
+      "Do give every animation a settled end state and a prefers-reduced-motion path (board renders fully-on; staggers collapse to 0ms).",
+      "Do draw icons as stroke-only inline SVG at 1.5px stroke width — no icon fonts, no filled glyphs, no external assets.",
+      "Do keep hover feedback to tone steps and 1–2px lifts on cubic-bezier(.22,1,.36,1) at ~0.18s."
+    ],
+    "donts": [
+      "Don't use box-shadows for elevation, neon glow effects, particle networks, or gradient washes — the world's thesis explicitly refuses the dark AI-agency look. The only glow is the 8px lamp emission.",
+      "Don't let the 28px schematic grid escape the process-board canvas onto the page ground or other panels (The Grid-in-the-Canvas Rule).",
+      "Don't introduce a third signal hue or use green/amber decoratively; graphite and ink carry everything that is not a state or the CTA.",
+      "Don't create a second green-drenched section — the contact \"GO\" panel is the single palette inversion (The One Drench Rule).",
+      "Don't load external fonts, scripts, images, or trackers; the page is one self-contained file with embedded woff2 fonts and inline SVG.",
+      "Don't exceed the radius vocabulary: 6px panels, 3px chips/buttons, circles only for 9px status lamps."
+    ]
+  }
+}
